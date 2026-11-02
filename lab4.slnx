@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="mainprog/mainprog.csproj" />
+  <Project Path="the_three_diff_objs/the_three_diff_objs.csproj" />
+</Solution>
