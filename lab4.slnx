@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Элементы решения/">
     <File Path="README.md" />
+    <File Path="self_icon.ico" />
   </Folder>
   <Project Path="mainprog/mainprog.csproj" />
   <Project Path="the_three_diff_objs/the_three_diff_objs.csproj" Id="8acb785c-f787-4468-abfb-d612aaf75c05" />
