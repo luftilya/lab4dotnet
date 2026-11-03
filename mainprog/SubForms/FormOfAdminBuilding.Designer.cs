@@ -123,9 +123,8 @@
             getsquare_label.Font = new Font("Segoe UI", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 204);
             getsquare_label.Location = new Point(1040, 363);
             getsquare_label.Name = "getsquare_label";
-            getsquare_label.Size = new Size(257, 50);
+            getsquare_label.Size = new Size(0, 50);
             getsquare_label.TabIndex = 10;
-            getsquare_label.Text = "Площадь (м2)";
             // 
             // getfunc_label
             // 

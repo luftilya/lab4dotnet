@@ -20,7 +20,10 @@ public partial class FormOfAdminBuilding : Form
 
         getname_label.Text = ab.GetName();
         getfunc_label.Text = ab.GetFunc();
-        getsquare_label.Text = ab.GetSquare().ToString() + "м2";
+
+        if (ab.GetSquare() == 0.0)
+            return;
+        getsquare_label.Text = ab.GetSquare().ToString() + " м2";
     }
 
     private void button_Click(object sender, EventArgs e)
